@@ -9,3 +9,12 @@
 SankHyan24/SankHyan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!--START_SECTION:waka-->
+```text
+C#             6 hrs 53 mins   ███████████████████░░░░░░   75.47 % 
+YAML           1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+HTTP Request   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Other          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Docker         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+```
+<!--END_SECTION:waka-->
