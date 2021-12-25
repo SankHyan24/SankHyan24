@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other     1 hr 53 mins    ████████████████████████▒   96.73 % 
+Git       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+HTML      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 <!--END_SECTION:waka-->
