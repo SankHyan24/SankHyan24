@@ -11,8 +11,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:waka-->
 ```text
-Other     3 hrs 40 mins   ████████████████████████▓   98.29 % 
-Git       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-HTML      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Other      3 hrs 40 mins   ███████████████████████▓░   94.90 % 
+CMake      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Git        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+HTML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
