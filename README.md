@@ -12,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:waka-->
 ```text
-YAML       3 hrs 26 mins   ███████████░░░░░░░░░░░░░░   43.64 % 
-Markdown   2 hrs 54 mins   █████████▒░░░░░░░░░░░░░░░   36.82 % 
-V          45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-HTML       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Other      12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+TeX        1 hr 50 mins    █████████▓░░░░░░░░░░░░░░░   39.13 % 
+Markdown   1 hr 2 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.12 % 
+YAML       55 mins         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+V          22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+HTML       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 <!--END_SECTION:waka-->
