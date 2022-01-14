@@ -12,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:waka-->
 ```text
-Other        6 hrs           █████████████▓░░░░░░░░░░░   54.87 % 
-TeX          1 hr 50 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.76 % 
-HTML         1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Markdown     42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-JavaScript   34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+JavaScript   7 hrs 4 mins    █████████▒░░░░░░░░░░░░░░░   37.39 % 
+Other        6 hrs           ████████░░░░░░░░░░░░░░░░░   31.75 % 
+TeX          1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+HTML         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+CSS          46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 <!--END_SECTION:waka-->
