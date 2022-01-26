@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:waka-->
 ```text
-Markdown   7 hrs 55 mins   █████████████░░░░░░░░░░░░   52.30 % 
-C++        3 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.03 % 
-JSON       1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-YAML       57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Other      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Markdown   5 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   38.92 % 
+C++        5 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   37.18 % 
+JSON       1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+YAML       1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Other      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 <!--END_SECTION:waka-->
