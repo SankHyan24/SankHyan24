@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:waka-->
 ```text
+Total: 1 hr 30 mins
+
 Markdown   1 hr 30 mins    ████████████████████████░   96.33 % 
 Other      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
