@@ -10,11 +10,11 @@ SankHyan24/SankHyan24 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:waka-->
+
 ```text
-Markdown   1 hr 6 mins     █████████▒░░░░░░░░░░░░░░░   36.78 % 
-Other      44 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.69 % 
-CMake      35 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-JSON       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-YAML       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+CMake      35 mins         █████████████████████░░░░   84.00 %
+C++        6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
+
 <!--END_SECTION:waka-->
