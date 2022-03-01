@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-CMake      35 mins         █████████████████████░░░░   84.00 %
-C++        6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+C++        37 mins         █████████████▓░░░░░░░░░░░   55.26 %
+V          16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.71 %
+Other      9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
 ```
 
 <!--END_SECTION:waka-->
