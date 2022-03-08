@@ -12,9 +12,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C++          9 hrs 47 mins   ██████████████████████░░░   88.36 %
-Jupyter      20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+C++          9 hrs 14 mins   ██████████████████▓░░░░░░   75.22 %
+V            1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+SQL          45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Jupyter      20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+CMake        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
