@@ -12,11 +12,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C++           12 hrs 27 mins  ███████████████▓░░░░░░░░░   62.55 %
-V             3 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-Text          2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-CMake         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Other         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+C++          12 hrs 20 mins  ████████████████▒░░░░░░░░   65.30 %
+V            4 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+Text         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Other        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->
