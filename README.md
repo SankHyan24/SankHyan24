@@ -12,12 +12,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C++          14 hrs 11 mins  ████████████████▒░░░░░░░░   65.92 %
-V            4 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
-Text         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Python       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Batchfile    28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-CMake        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+C++          17 hrs 38 mins  █████████████████▓░░░░░░░   70.02 %
+V            4 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+Text         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Python       29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Batchfile    28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+CMake        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
