@@ -14,9 +14,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C++        4 hrs 26 mins   ███████████████████████░░   92.21 %
-CMake      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+C++              16 hrs 45 mins  ████████████████░░░░░░░░░   64.17 %
+V                3 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+C                1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Text             1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Markdown         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+ObjectiveC       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
