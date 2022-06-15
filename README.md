@@ -14,12 +14,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C++          1 hr 51 mins    ████████████░░░░░░░░░░░░░   48.25 %
-SQL          1 hr 10 mins    ███████▓░░░░░░░░░░░░░░░░░   30.39 %
-Assembly     27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-C            9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-ObjectiveC   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+C++        1 hr            █████████████████▒░░░░░░░   68.83 %
+Assembly   27 mins         ███████▓░░░░░░░░░░░░░░░░░   30.50 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
