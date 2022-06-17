@@ -14,9 +14,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C++        50 mins         ████████████████▒░░░░░░░░   64.84 %
-Assembly   27 mins         ████████▓░░░░░░░░░░░░░░░░   34.93 %
-CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+C++     49 mins         █████████████████████████   99.64 %
+CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
