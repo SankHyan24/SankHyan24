@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C++        2 hrs 10 mins   ████████████░░░░░░░░░░░░░   47.69 %
-Markdown   1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   29.48 %
-Other      31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+C++        4 hrs 12 mins   ████████████████░░░░░░░░░   63.39 %
+Markdown   1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+Other      33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
 ```
 
 <!--END_SECTION:waka-->
