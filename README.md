@@ -14,12 +14,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C++          2 hrs 57 mins   █████████░░░░░░░░░░░░░░░░   36.11 %
-JavaScript   2 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
-HTML         1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-Markdown     34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Python       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-CSV          25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+C++          2 hrs           ███████████░░░░░░░░░░░░░░   43.72 %
+JavaScript   1 hr 24 mins    ███████▓░░░░░░░░░░░░░░░░░   30.73 %
+Markdown     34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+CSV          23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+HTML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Pug          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
