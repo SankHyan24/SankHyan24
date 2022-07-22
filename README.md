@@ -14,7 +14,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Other              1 hr 36 mins    ███████████░░░░░░░░░░░░░░   44.11 %
+Assembly           1 hr 16 mins    ████████▓░░░░░░░░░░░░░░░░   34.20 %
+Other              39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
 ```
 
 <!--END_SECTION:waka-->
