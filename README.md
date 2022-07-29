@@ -14,10 +14,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Assembly     1 hr 3 mins     █████████████░░░░░░░░░░░░   52.62 %
-C++          16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-Python       12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Other        12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+C++          16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
+Assembly     16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
+Python       12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+Other        12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
 ```
 
 <!--END_SECTION:waka-->
