@@ -14,10 +14,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Assembly   13 mins         ██████████████░░░░░░░░░░░   55.63 %
-Python     9 mins          █████████▓░░░░░░░░░░░░░░░   38.74 %
-Bash       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Python   9 mins          ███████████████████████▓░   94.35 %
+Other    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
