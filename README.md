@@ -14,11 +14,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Python       7 hrs           ████████████████████▓░░░░   82.04 %
-Markdown     43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-Text         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-Git Config   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Python             5 hrs 48 mins   ██████████▓░░░░░░░░░░░░░░   42.71 %
+C++                2 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+Other              1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
 ```
 
 <!--END_SECTION:waka-->
