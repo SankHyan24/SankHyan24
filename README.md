@@ -14,8 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C++           2 hrs 24 mins   █████████████░░░░░░░░░░░░   51.88 %
-Other         1 hr 41 mins    █████████░░░░░░░░░░░░░░░░   36.58 %
+Other   1 hr 19 mins    ████████████░░░░░░░░░░░░░   47.91 %
 ```
 
 <!--END_SECTION:waka-->
