@@ -14,11 +14,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-V            1 hr 57 mins    ███████████████▒░░░░░░░░░   61.03 %
-Markdown     23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-Python       21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-C            14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Other        13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+V            1 hr 57 mins    ███████████░░░░░░░░░░░░░░   43.40 %
+Python       1 hr 36 mins    █████████░░░░░░░░░░░░░░░░   35.86 %
+Markdown     23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+Other        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
 ```
 
 <!--END_SECTION:waka-->
