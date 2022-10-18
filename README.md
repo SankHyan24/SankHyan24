@@ -14,10 +14,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Java          2 hrs 59 mins   ██████████▓░░░░░░░░░░░░░░   42.94 %
-C             1 hr 24 mins    █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-V             1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-Other         37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Java          2 hrs 59 mins   █████████████░░░░░░░░░░░░   51.59 %
+C             1 hr 35 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.32 %
+JSON          29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Other         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 ```
 
 <!--END_SECTION:waka-->
