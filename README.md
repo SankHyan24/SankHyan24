@@ -14,9 +14,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C          14 hrs 14 mins  ██████████████████▓░░░░░░   75.09 %
-Python     3 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-Other      32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+C          9 hrs 24 mins   ████████████████▒░░░░░░░░   65.71 %
+Python     3 hrs 21 mins   ██████░░░░░░░░░░░░░░░░░░░   23.47 %
+C++        46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Other      21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
