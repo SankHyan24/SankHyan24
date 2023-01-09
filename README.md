@@ -14,8 +14,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C++    15 mins         ███████████████████████▒░   92.95 %
-JSON   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Python   1 hr 19 mins    ████████████████████▒░░░░   81.09 %
+C++      15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+CSV      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
