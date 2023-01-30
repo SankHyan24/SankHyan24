@@ -14,9 +14,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     15 mins         █████████████████████░░░░   84.31 %
-JavaScript   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Markdown   15 mins         █████████████████████▓░░░   87.28 %
+Python     2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
 ```
 
 <!--END_SECTION:waka-->
