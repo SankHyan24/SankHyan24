@@ -14,12 +14,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   45.02 %
-HTML         1 hr 21 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
-CSS          1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-YAML         47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Python       37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Python       14 mins         ████████████▓░░░░░░░░░░░░   50.35 %
+YAML         13 mins         ████████████▒░░░░░░░░░░░░   48.71 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
