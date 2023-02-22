@@ -14,8 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     24 mins         █████████████████████████   99.93 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
