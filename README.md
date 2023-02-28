@@ -14,9 +14,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Python     11 mins         ███████████████████████▒░   93.47 %
-Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python       11 mins         ███████████████▒░░░░░░░░░   61.63 %
+V            6 mins          ████████▒░░░░░░░░░░░░░░░░   33.10 %
+Markdown     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
