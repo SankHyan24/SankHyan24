@@ -2,9 +2,7 @@
 
 - 👀 I’m interested in CG/CV/HPC...
 - 🌱 I’m currently struggling to learn CS in ZJU.
-- 💞️ I’m looking to collaborate on Dalao who want to Daidai me.
-- 💔 I’m glad to learn my professional courses but they are too difficult for me.
-- 📫 How to reach me:
+- 💞️ I want to become more Professional and Powerful
 
 
 <!---
