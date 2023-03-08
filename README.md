@@ -14,7 +14,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Other        1 hr 13 mins    █████████████░░░░░░░░░░░░   51.71 %
+Markdown     1 hr 16 mins    ██████████▓░░░░░░░░░░░░░░   42.40 %
+Other        1 hr 14 mins    ██████████▒░░░░░░░░░░░░░░   41.36 %
 ```
 
 <!--END_SECTION:waka-->
