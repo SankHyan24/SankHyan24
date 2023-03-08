@@ -1,7 +1,7 @@
 # 👋 I’m @SankHyan24
 
 - 👀 I’m interested in CG/CV/HPC...
-- 🌱 I’m currently struggling to learn CS in ZJU.
+- 🌱 I’m learning CS&T in ZJU.
 - 💞️ I want to become more Professional and Powerful
 
 
