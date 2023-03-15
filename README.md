@@ -12,10 +12,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     35 mins         ███████████████████████▒░   93.55 %
-Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Text         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Python       1 hr 10 mins    █████████████████████████   99.77 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
