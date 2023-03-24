@@ -12,12 +12,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     1 hr            ██████████░░░░░░░░░░░░░░░   40.40 %
-Python       30 mins         █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-CMake        23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-Text         16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-C++          13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+C++           1 hr 35 mins    ███████████▒░░░░░░░░░░░░░   45.47 %
+Other         38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
 ```
 
 <!--END_SECTION:waka-->
