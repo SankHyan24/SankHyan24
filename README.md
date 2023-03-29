@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Other         4 hrs 26 mins   █████████▓░░░░░░░░░░░░░░░   38.75 %
+Other              4 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.40 %
 ```
 
 <!--END_SECTION:waka-->
