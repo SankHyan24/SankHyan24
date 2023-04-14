@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
-C++          2 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Other        1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+JavaScript   2 hrs 29 mins   █████████▓░░░░░░░░░░░░░░░   38.21 %
+HTML         1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Other        50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
 ```
 
 <!--END_SECTION:waka-->
