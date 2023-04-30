@@ -12,11 +12,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 13 mins   ████████████████████▒░░░░   81.30 %
-Markdown     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-YAML         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Python       11 hrs 25 mins  █████████████████████▒░░░   84.88 %
+HTML         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+YAML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
