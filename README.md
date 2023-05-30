@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-C++              34 hrs 27 mins  ████████████████▒░░░░░░░░   65.41 %
-Mason            5 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-Other            3 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-C                2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Python           2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+C++              30 hrs 48 mins  ██████████████▓░░░░░░░░░░   58.66 %
+Mason            5 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+C                4 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Other            3 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+ca65 assembler   3 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
 ```
 
 <!--END_SECTION:waka-->
