@@ -2,8 +2,6 @@
 
 - 👀 I’m interested in CG/CV/HPC...
 - 🌱 I’m learning CS&T in ZJU.
-- 💞️ I want to become more Professional and Powerful
-
 
 <!---
 SankHyan24/SankHyan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
