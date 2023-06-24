@@ -10,9 +10,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-C++        13 mins         ██████████████████████░░░   87.58 %
-Markdown   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Markdown   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
