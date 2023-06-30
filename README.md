@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CMake        37 mins         ██████████████████░░░░░░░   71.55 %
+C++          9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
+Git Config   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
 ```
 
 <!--END_SECTION:waka-->
