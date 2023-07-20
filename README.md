@@ -10,9 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-C++        11 mins         ████████████▒░░░░░░░░░░░░   49.42 %
-YAML       7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.27 %
-Markdown   4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.31 %
+C++        24 mins         █████████░░░░░░░░░░░░░░░░   36.37 %
+Other      16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
+C          7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+YAML       7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Markdown   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
 ```
 
 <!--END_SECTION:waka-->
