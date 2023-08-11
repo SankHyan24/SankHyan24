@@ -10,10 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Pug        3 mins          ████████████████████▓░░░░   82.76 %
-YAML       0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Git        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Text       9 mins          ████████████████▒░░░░░░░░   65.27 %
+Pug        3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
+Other      1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+YAML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
