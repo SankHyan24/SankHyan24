@@ -10,8 +10,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Text    9 mins          ██████████████████████▓░░   90.09 %
-Other   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
