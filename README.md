@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Python         20 mins         ██████████████▒░░░░░░░░░░   57.28 %
-TSQL           5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-ActionScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-C++            2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-Zed            2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+TSQL           5 mins          ████████▓░░░░░░░░░░░░░░░░   35.25 %
+ActionScript   4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
+C++            2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
+Zed            2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+Assembly       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
 ```
 
 <!--END_SECTION:waka-->
