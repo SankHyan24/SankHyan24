@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+GDScript3   0 secs          ██████████░░░░░░░░░░░░░░░   39.50 %
+CMake       0 secs          ████████░░░░░░░░░░░░░░░░░   32.03 %
+C++         0 secs          ███████░░░░░░░░░░░░░░░░░░   28.47 %
 ```
 
 <!--END_SECTION:waka-->
