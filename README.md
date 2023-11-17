@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-C++                1 hr 10 mins    ████████▒░░░░░░░░░░░░░░░░   33.42 %
-XML                34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-CMake              26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-Batchfile          18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Other              16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+C++                2 hrs 56 mins   ████████████▒░░░░░░░░░░░░   48.83 %
+Other              58 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+XML                34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+CMake              26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Batchfile          18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 ```
 
 <!--END_SECTION:waka-->
