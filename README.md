@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 hrs 10 mins   ███████████████████▓░░░░░   78.10 %
-C++     36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+Other   2 hrs 10 mins   ███████████████████▓░░░░░   78.00 %
+C++     36 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
 XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
