@@ -10,11 +10,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Other        19 mins         ████████████░░░░░░░░░░░░░   47.58 %
-Python       19 mins         ███████████▓░░░░░░░░░░░░░   46.71 %
-Markdown     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python     19 mins         ████████████▓░░░░░░░░░░░░   50.00 %
+Other      16 mins         ███████████░░░░░░░░░░░░░░   43.91 %
+Markdown   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
