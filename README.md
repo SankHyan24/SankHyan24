@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   7 mins          ██████████████████▓░░░░░░   74.59 %
+C++     2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+XML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
