@@ -10,9 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   7 mins          ██████████████████▓░░░░░░   74.59 %
-C++     2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.31 %
-XML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+C++           23 mins         ██████████████████▓░░░░░░   74.06 %
+Other         7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.28 %
+CSV           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+XML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
