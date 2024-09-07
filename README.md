@@ -10,11 +10,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-CMake        9 mins          ██████████████████▓░░░░░░   74.75 %
-YAML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Other        0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-C++          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-SSH Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+CMake        2 mins          █████████████████████▒░░░   85.56 %
+SSH Config   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
 ```
 
 <!--END_SECTION:waka-->
