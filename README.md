@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 25 mins    ██████████░░░░░░░░░░░░░░░   39.93 %
-CMake        32 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-Cuda         28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-JavaScript   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-YAML         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+HTML         1 hr 24 mins    ███████▓░░░░░░░░░░░░░░░░░   31.21 %
+Cuda         1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+CMake        59 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+YAML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+JSON         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
