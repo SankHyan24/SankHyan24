@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Cuda         1 hr 40 mins    █████████████░░░░░░░░░░░░   52.21 %
-Markdown     48 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
-CMake        36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
-C++          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Cuda         1 hr 40 mins    ███████████░░░░░░░░░░░░░░   44.00 %
+Markdown     48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+CMake        37 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+C++          36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
