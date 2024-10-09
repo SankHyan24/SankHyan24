@@ -10,11 +10,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 30 mins    ███████████▒░░░░░░░░░░░░░   44.77 %
-Cuda         43 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
-Markdown     29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Text         23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-HTML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Cuda    43 mins         ████████████████████████▓   98.77 %
+CMake   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
