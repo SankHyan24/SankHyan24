@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-C++                17 hrs 45 mins  ███████████████████░░░░░░   76.53 %
-Python             1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-CMake              1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Text               53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Cuda               24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+C++                20 hrs 43 mins  ███████████████████▒░░░░░   77.17 %
+Python             1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+CMake              1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Text               53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Other              45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
