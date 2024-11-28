@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   4 mins          ████████████████▒░░░░░░░░   65.87 %
-C++     1 min           █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
-CMake   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+C++     6 mins          ████████████░░░░░░░░░░░░░   48.46 %
+Other   5 mins          ███████████▒░░░░░░░░░░░░░   44.87 %
+CMake   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 <!--END_SECTION:waka-->
