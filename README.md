@@ -10,7 +10,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-GLSL   0 secs          █████████████████████████   100.00 %
+C++     3 hrs 9 mins    ███████████████████▓░░░░░   79.11 %
+Other   50 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
