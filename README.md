@@ -10,9 +10,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   4 hrs 46 mins   █████████████████████▒░░░   85.86 %
-Java    40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-GLSL    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Other   1 hr 10 mins    ████████████████░░░░░░░░░   63.59 %
+Java    40 mins         █████████░░░░░░░░░░░░░░░░   36.41 %
 ```
 
 <!--END_SECTION:waka-->
