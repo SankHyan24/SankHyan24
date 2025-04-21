@@ -10,7 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Java   40 mins         █████████████████████████   100.00 %
+C          2 hrs 9 mins    ████████████████████████▓   98.71 %
+Assembly   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
