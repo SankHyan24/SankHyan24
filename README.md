@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         11 mins         ██████████████▒░░░░░░░░░░   56.73 %
-SSH Key      5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
-PowerShell   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python       20 mins         ██████████████░░░░░░░░░░░   55.86 %
+JSON         11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.78 %
+PowerShell   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
