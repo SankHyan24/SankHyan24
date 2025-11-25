@@ -10,9 +10,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   44 mins         ███████████████████████▓░   94.02 %
-Text     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Python       22 mins         ██████████████████████░░░   88.56 %
+Text         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
