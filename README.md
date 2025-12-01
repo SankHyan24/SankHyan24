@@ -10,9 +10,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       9 mins          ████████████████████████▒   96.77 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+SSH Config   4 mins          ████████████████░░░░░░░░░   63.72 %
+Other        2 mins          ████████▒░░░░░░░░░░░░░░░░   33.69 %
+Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
