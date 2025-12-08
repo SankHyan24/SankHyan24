@@ -10,8 +10,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   6 mins          ██████████████████░░░░░░░   71.52 %
-Other        2 mins          ███████░░░░░░░░░░░░░░░░░░   28.48 %
+SSH Config   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
