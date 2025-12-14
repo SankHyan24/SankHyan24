@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   1 min           █████████████████████████   100.00 %
+Python   6 mins          ███████████████████░░░░░░   75.82 %
+JSON     1 min           ██████░░░░░░░░░░░░░░░░░░░   23.89 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
