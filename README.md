@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        12 mins         ███████░░░░░░░░░░░░░░░░░░   28.26 %
-Markdown   9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
-C++        8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-Other      8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
-Python     5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+Markdown   9 mins          ███████▒░░░░░░░░░░░░░░░░░   28.98 %
+C++        8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
+Other      8 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
+Python     5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
