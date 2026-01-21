@@ -10,11 +10,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   9 mins          ███████▒░░░░░░░░░░░░░░░░░   28.98 %
-C++        8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
-Other      8 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
-Python     5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
