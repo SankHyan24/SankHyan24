@@ -10,7 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        59 mins         ████████████▓░░░░░░░░░░░░   50.11 %
+Python       15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+TeX          11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+C++          9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+CSV          8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
 ```
 
 <!--END_SECTION:waka-->
