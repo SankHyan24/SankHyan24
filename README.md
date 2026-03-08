@@ -10,8 +10,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Batchfile   16 mins               █████████████████████░░░░   84.33 %
-Python      3 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Batchfile   5 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
