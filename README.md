@@ -10,8 +10,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-C++      36 mins               ██████████████████████▓░░   90.79 %
-Python   3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+C++   36 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
