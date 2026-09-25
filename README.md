@@ -10,7 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         23 mins               ██████░░░░░░░░░░░░░░░░░░░   24.54 %
+Markdown     22 mins               ██████░░░░░░░░░░░░░░░░░░░   23.48 %
+Text         22 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
+TeX          15 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Other        6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
 ```
 
 <!--END_SECTION:waka-->
