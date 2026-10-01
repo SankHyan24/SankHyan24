@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          3 hrs 56 mins         ████████▒░░░░░░░░░░░░░░░░   33.77 %
-Markdown     2 hrs 49 mins         ██████░░░░░░░░░░░░░░░░░░░   24.23 %
-Python       2 hrs 15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-Other        2 hrs 6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-Bash         23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+TeX          3 hrs 56 mins         █████████░░░░░░░░░░░░░░░░   35.38 %
+Markdown     2 hrs 43 mins         ██████░░░░░░░░░░░░░░░░░░░   24.46 %
+Python       2 hrs 15 mins         █████░░░░░░░░░░░░░░░░░░░░   20.23 %
+Other        2 hrs 6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
+SSH Config   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
