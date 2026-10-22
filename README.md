@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   1 hr 23 mins          █████████████░░░░░░░░░░░░   51.63 %
+Python     1 hr 18 mins          ████████████░░░░░░░░░░░░░   48.37 %
 ```
 
 <!--END_SECTION:waka-->
